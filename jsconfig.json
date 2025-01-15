@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    // Configuration options for the TypeScript compiler
+    "paths": {
+      "@/*": [
+        "./*"
+      ] // Alias "@" to the root directory
+    }
+  }
+}
